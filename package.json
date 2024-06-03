@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "wrangler dev src/main.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240529.0",
+    "wrangler": "^3.58.0"
+  }
+}
